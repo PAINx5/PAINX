@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mr-zalman</h1>
+<h1 align="center">Hi 👋, I'm PAINX</h1>
 <h3 align="center">programming</h3>
 
 - 🌱 I’m currently learning **java js**
